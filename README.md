@@ -1,3 +1,4 @@
+![PicozSuntracker](https://github.com/joyfab/SunTracker/assets/29073056/d98987fa-aed0-4f49-b8ee-3eb199583ce5)
 # SunTracker
 Suntracker XY two axis RxTx Driver                                                               
 IDE and libraries needed:                                                                        
